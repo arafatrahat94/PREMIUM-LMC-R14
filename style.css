@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(yellow, white);
+    background-repeat: no-repeat;
+    margin: 0%;
+    padding-left: 10px;
+    font-family: 'Varela Round', sans-serif;
+}
+.channel{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 81, 255);
+    text-shadow: 10px 3px 6px black;
+}
+.config{
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+.camera{
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+.config-link{
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    color: rgb(0, 60, 255);
+    
+}
