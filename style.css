@@ -31,4 +31,12 @@ body{
 .hr{
     color: black;
     border: 2px solid black;
+    width: 50%;
+}
+.video{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.config-name{
+    font-size: 30px;
 }
